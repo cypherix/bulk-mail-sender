@@ -1,0 +1,16 @@
+SUBJECT: Application for opportunities at {company} — {sender_name}
+
+Dear {first_name},
+
+I hope this message finds you well. My name is {sender_name}, and I am
+reaching out regarding potential opportunities at {company}, where I
+understand you lead as {title}.
+
+I have attached my resume for your review. I would welcome the chance to
+discuss how my background might be a fit for your team.
+
+Thank you for your time and consideration.
+
+Best regards,
+{sender_name}
+{sender_email}
